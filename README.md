@@ -4,6 +4,7 @@
 I mainly work on the **frontend**, and I’m currently learning **Node.js backend development** through small projects and **open-source contributions**.
 
 I also enjoy **Python** and explore **Machine Learning** out of curiosity.
+
 LinkedIn : https://www.linkedin.com/in/uttamrana03
 FreeCodeCamp: https://www.freecodecamp.org/uttamrana03
 ---
