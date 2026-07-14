@@ -8,7 +8,7 @@ I also enjoy **Python** and explore **Machine Learning** out of curiosity.
 
 ## 💻 What I Work With
 
-- **Frontend:** JavaScript (ES6+), React, HTML, CSS, Tailwind CSS  
+- **Frontend:** JavaScript (ES6+),TypeScript, React, HTML, CSS, Tailwind CSS  
 
 ---
 
